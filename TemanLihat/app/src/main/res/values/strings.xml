@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Teman Lihat</string>
+    <string name="choose_feature">Pilih fitur yang ingin digunakan</string>
+    <string name="document_title">Baca Dokumen</string>
+    <string name="document_subtitle">Membacakan teks cetak</string>
+    <string name="document_description">Fitur ini dirancang untuk mengenali teks pada dokumen melalui kamera dan membacakannya dalam bahasa Indonesia.</string>
+    <string name="expiry_title">Baca Tanggal Kedaluwarsa</string>
+    <string name="expiry_subtitle">Deteksi EXP / ED</string>
+    <string name="expiry_description">Fitur ini dirancang untuk membaca tanggal kedaluwarsa bertanda EXP atau ED pada kemasan.</string>
+    <string name="color_title">Deteksi Warna</string>
+    <string name="color_subtitle">Mengenali warna benda</string>
+    <string name="color_description">Fitur ini dirancang untuk mengenali warna benda melalui kamera dan menyebutkan nama warnanya dalam bahasa Indonesia.</string>
+    <string name="feature_status">Fitur ini belum tersedia. Anda sudah dapat menggunakan Baca Dokumen untuk mengenali dan membacakan teks.</string>
+    <string name="close">Tutup</string>
+</resources>
